@@ -1,4 +1,4 @@
-# 3D turbulent channel flow reconstruction using sparse 2D images 
+# 3D turbulent channel flow reconstruction using sparse 2D images (Deep convolutional Autoencoder)
 PyTorch implementation and training of a convolutional autoencoder to reconstruct a 3D turbulent channel flow at Re_tau = 180 using sparse 2D splices of the 3D data.
 
 Author: Shinya Kondo
